@@ -27,7 +27,7 @@ Released under the MIT license.
 ### CDN
 
 ```bash
-<script type="text/javascript" src="https://raw.githubusercontent.com//huydt03/CSSJS/master/libs/css-js.js"></script>
+<script type="text/javascript" src="https://huydt03.github.io/CSSJS/libs/css-js.js"></script>
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ Released under the MIT license.
 
 ```typescript
 
-import { toCss, toJs } from 'cssjson';
+import { toCss, toJs } from 'css-js';
 
 // To JSON
 const json = toJs(cssString);
