@@ -47,7 +47,7 @@ const css = toCss(jsonObject);
 
 ## Sample
 
-Visit Demo(https://huydt03.github.io/CSSJS)
+Visit https://huydt03.github.io/CSSJS
 
 ### JSON
 
